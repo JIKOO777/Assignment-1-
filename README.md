@@ -1,4 +1,4 @@
-# assignment-dnc
+# assignment
 
 Production-ready Maven project showcasing instrumented divide-and-conquer algorithms, a CLI driver, CI automation, benchmarking, and visualization tooling.
 
